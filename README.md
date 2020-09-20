@@ -16,7 +16,7 @@ When all parameters have been defined, the password will appear within the passw
 
 [RandomPassGen_D Link](https://davidyi0529.github.io/RandomPassGen_D/)
 
-<img src="https://github.com/davidyi0529/Portfolio_D/blob/master/assets/images/about.png?raw=true" width="1000" height="400">
+<img src="https://github.com/davidyi0529/RandomPassGen_D/blob/master/Assets/images/RandomPassGen_D.png?raw=true" width="1000" height="400">
 
 <br />
 <br />
@@ -55,7 +55,7 @@ When all parameters have been defined, the password will appear within the passw
 <br />
 
 ```bash
- Clone this repo to your local machine using 'https://github.com/davidyi0529/Portfolio_D.git'
+ Clone this repo to your local machine using 'https://github.com/davidyi0529/RandomPassGen_D.git'
 ```
 
 <br />
@@ -71,28 +71,22 @@ When all parameters have been defined, the password will appear within the passw
 <br />
 <br />
 
-I would like to discuss some of the key features used for this project. The following tools below were mainly used without using any media queries.
+The following were used for this project.
 
+- `Javascript`
 - `HTML`
 - `Bootstrap`
 
-Since Bootstrap was able to provide a basic layout to get started, it was just a matter of research of putting the building blocks together.
-
 <br />
 
->Bootstrap features utilized...
+>Javascript features utilized...
 
-- `Navbar` - This component was used for the top and bottom bars.
-- `Card` - Used in the main **About me** page and **Portfolio** page. Since this was mainly use in the body of the page, 
-           there was a lot of trial and error on the spacings.
-- `Grids`
-- `Input group`
-- `Forms`
-- `Colors`
-
-<br />
-
-There are a lot of cool features that Bootstrap can provide and I can't wait to utilize it more in future projects.
+- `Arrays`
+- `Loops` 
+- `Confirm`
+- `Prompt`
+- `Math.floor`
+- `Math.random`
 
 <br />
 <br />
@@ -106,7 +100,7 @@ There are a lot of cool features that Bootstrap can provide and I can't wait to 
 
 <br />
 
-><a href="https://getbootstrap.com/" target="_blank">`Bootstrap`</a> 
+><a href="https://bootcamp.berkeley.edu/coding/" target="_blank">`UCB-Coding-Bootcamp`</a> 
 
 ><a href="w3schools.com" target="_blank">`W3Schools`</a> 
 
