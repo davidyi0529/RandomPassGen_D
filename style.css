@@ -139,3 +139,10 @@ button[disabled] {
 H2 { 
   text-align: center 
 }
+
+.previous-passwords {
+  text-align: center;
+  padding: 20px;
+  padding-top: 0px;
+  margin: 0 auto;
+}
